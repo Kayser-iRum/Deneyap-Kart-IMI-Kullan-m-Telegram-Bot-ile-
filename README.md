@@ -1,2 +1,2 @@
-# Deneyap-Kart-IMI-Kullan-m-Telegram-Bot-ile-
-Deneyap Kart IMI Kullanımı (Telegram Bot ile)
+# Deneyap-Kart-IMU-Kullanimi-Telegram-Bot-ile-
+Deneyap Kart IMU Kullanımı (Telegram Bot ile)
